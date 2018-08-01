@@ -1,5 +1,6 @@
 # Blog
 > 记录所思所得
+* [小程序Wi-Fi一键连](https://github.com/lushuhao/blog/issues/9 "小程序Wi-Fi一键连")
 * [vue-cli启动node进行反向代理](https://github.com/lushuhao/blog/issues/6 "vue-cli启动node进行反向代理")
 * [用TypeScript写微信小程序API的声明文件](https://github.com/lushuhao/blog/issues/5 "用TypeScript写微信小程序API的声明文件")
 * [音乐播放器CD唱片，最大最小化旋转角度一致](https://github.com/lushuhao/blog/issues/4 "音乐播放器CD唱片，最大最小化旋转角度一致")
